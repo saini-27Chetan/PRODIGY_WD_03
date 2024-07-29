@@ -1,6 +1,6 @@
 # Live Application Link: -
 
-https://get-stopwatch.netlify.app/
+https://tictactoe-world.netlify.app/
 
 # Getting Started with Create React App
 
